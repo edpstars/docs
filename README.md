@@ -1,4 +1,4 @@
-# docs
+# Documentstion
 Documentation POS WS by EDP Stars
 
 # Frequently Asked Questions (FAQ)
